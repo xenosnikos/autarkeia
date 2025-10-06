@@ -9,7 +9,7 @@
 			</div>
 		</div>
 		<div class="hero-image">
-			<img src="/hero.png" alt="Autarkia visualization" />
+			<img src="/assets/hero.png" alt="Autarkia visualization" />
 		</div>
 	</div>
 </section>
